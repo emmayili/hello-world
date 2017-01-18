@@ -1,3 +1,3 @@
 # hello-world
-A new repository created
+A NEW repository created
 This is a new person to Git!
